@@ -25,7 +25,6 @@ O projeto é composto por 18 páginas HTML (index, os 7 livros e os principais p
 
 #### Livros
 
-- [home](home.html)
 - [pedra_filosofal](pedra_filosofal.html)
 - [camara_secreta](camara_secreta.html)
 - [prisioneiro_de_azkaban](prisioneiro_de_azkaban.html)
